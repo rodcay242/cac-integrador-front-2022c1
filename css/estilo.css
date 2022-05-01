@@ -1,0 +1,61 @@
+.textoimagen{
+    
+    
+}
+
+.oradores {
+    width: 350px;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+}
+.botones {
+    padding: 2px;
+}
+.encabezado {
+    text-align: center;
+    padding: 0;
+}
+.imagenn{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.formulario{
+    width: 50%;
+}
+.textomin{
+    font-size: 0.8em;
+    color: grey;
+}
+.colorfooter{
+    background-color: rgb(14, 70, 107);
+}
+.colorfooter a{
+    color: #dee2e6;
+}
+.colorfooter li{
+    padding-left: 15px;
+}
+.overlay {
+    text-align: right;
+    width: 40%;
+    position: absolute !important;
+    top: 50% !important;
+    right: 5% !important;
+    bottom: unset !important;
+    left: unset !important;
+    transform: translate(0, -50%);
+}
+
+.card-custom {
+    border: none !important;
+    border-radius: 0% !important;
+}
+
+.card-title-custom {
+    font-size: 3em;
+}
+
+.card-text-custom {
+    font-size: 1.25em;
+}
