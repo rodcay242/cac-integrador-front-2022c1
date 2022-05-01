@@ -27,6 +27,9 @@
     font-size: 0.8em;
     color: grey;
 }
+.colorboton{
+    background: rgb(85, 167, 85);
+}
 .colorfooter{
     background-color: rgb(14, 70, 107);
 }
